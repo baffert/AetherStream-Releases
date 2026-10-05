@@ -1,0 +1,9 @@
+{
+    "version": "0.0.1",
+    "build": 1,
+    "releaseDate": "2026-10-05",
+    "changelog": "AETHERA Studio Pro v0.0.1 (Build 1) : Version initiale du studio broadcast DirectX 60 FPS avec régie native et système de mise à jour GitHub intégré.",
+    "downloadUrl": "https://raw.githubusercontent.com/baffert/AetherStream-Releases/main/AetherStream.exe",
+    "sha256": "591EECC9EFEEFAC9E129C464FB1818B073A19A04F1795531D8421CCCD5E432DA",
+    "mandatory": false
+}
