@@ -4,6 +4,6 @@
     "releaseDate":  "2026-10-05",
     "changelog":  "AETHERA Studio Pro v0.0.1 (Build 3) : Version ultra-securisee client (Obfuscar), chiffrement integral des chaines, masquage du code, binaire autonome scelle Single-File et auto-updater ameliore.",
     "downloadUrl":  "https://raw.githubusercontent.com/baffert/AetherStream-Releases/main/AetherStream.exe",
-    "sha256":  "136E706C98339844235FBCFE40A8C0A77DCFB829BDF745E1C991A4791BA6C4A3",
+    "sha256":  "DBC7CA7AD4D1F25AE00E25E5A3398AA9B8E2B7EE78C13444663F552D3E6D1E63",
     "mandatory":  false
 }
