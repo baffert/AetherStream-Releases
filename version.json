@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.0.1",
-    "build":  3,
-    "releaseDate":  "2026-10-05",
-    "changelog":  "AETHERA Studio Pro v0.0.1 (Build 3) : Version ultra-securisee client (Obfuscar), chiffrement integral des chaines, masquage du code, binaire autonome scelle Single-File et auto-updater ameliore.",
+    "version":  "0.0.2",
+    "build":  4,
+    "releaseDate":  "2026-10-07",
+    "changelog":  "AETHERA Studio Pro v0.0.2 (Build 4) : Correction integrale de la capture d\u0027ecran 1:1 (plein format 1440p/1080p sans coupure de la barre des taches), integration de l\u0027encodage materiel AV1 (NVIDIA RTX 40), decoupe ChromaKey ultra-rapide sans allocation et limiteur audio master analogique.",
     "downloadUrl":  "https://raw.githubusercontent.com/baffert/AetherStream-Releases/main/AetherStream.exe",
-    "sha256":  "620B38F786597EB135692C4379BFA018D8426932714CAECD0424B49CDA379B38",
+    "sha256":  "0124650574F5C1C8E2C9D099AB3709B34F1E42F7C7F25F00D4F64D1C2FEBC0F9",
     "mandatory":  false
 }
